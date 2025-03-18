@@ -3,16 +3,17 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
 
-* **Studentnummer**:
-* **Naam**:
-* **Bijeenkomst**:
-* **Datum**:
+* **Studentnummer**: 1878187
+* **Naam**: Kostas Salas
+* **Bijeenkomst**: Peilmoment 1
+* **Datum**: 18-03-2025
 
 
 ## Inleiding
+De afgelopen periode zijn er een paar dingen goed gegaan. Zo is het bijhouden van deadlines me goed afgegaan. Ik heb alle opdrachten op tijd ingeleverd en ze waren van redelijke kwaliteit. Met een beetje feedback kon ik mijn portfolio-items verder verbeteren en afronden. Dit heeft me geholpen om georganiseerd te blijven en mijn werk steeds te verbeteren.
 
-[comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. Doe dit in drie alinea's, waarin je achtereenvolgens antwoord geeft op de volgende vragen: 1. wat ging er goed in afgelopen periode; 2. wat kon er beter in afgelopen periode; 3. wat ga je komende periode vasthouden en/of verbeteren. Wees zo concreet mogelijk en geef voorbeelden.)
-
+Toch waren er ook enkele uitdagingen. Ik merk dat ik soms moeite heb om de uitleg tijdens de lessen bij te houden. Er wordt soms snel door de stof heen gegaan, waardoor ik niet altijd alles direct begrijp. Dit zorgt ervoor dat ik ’s avonds extra tijd moet nemen om de lesstof opnieuw door te nemen en beter te begrijpen. Hoewel dit helpt, kost het wel veel energie en tijd. In de toekomst wil ik proberen om tijdens de lessen sneller vragen te stellen of extra aantekeningen te maken, zodat ik minder tijd kwijt ben aan zelfstudie.
+Over het algemeen ben ik tevreden met mijn inzet, maar ik zie nog ruimte voor verbetering in hoe ik de lesstof verwerk en begrijp.
 [comment]: # (Inleiding peilmoment 1)
 
 ---
@@ -26,37 +27,40 @@
 
 ## Leeruitkomsten
 
-[comment]: # (Instructie: benoem per leeruitkomst de portfolio-items die deze leeruitkomst geheel of gedeeltelijk aantonen en die je afgelopen periode hebt opgeleverd. Let op: een portfolio-item telt alleen mee als deze aan de eisen voldoet, zoals beschreven op Canvas. Kort samengevat is een portfolio-item een product ingeleverd op Canvas, waarbij de verkregen feedback is verwerkt en die geaccordeerd is door een docent. Geef bij elk portfolio-item 1. de naam; 2. een link naar de inlevering op Canvas; 3. een link naar code in een repository, indien van toepassing; 4. een korte toelichting. Een toelichting is doorgaans *niet* nodig als je een voorgedefinieerd portfolio-item op niveau hebt voltooid. Scheid de peilmomenten met een horizontale streep.)
+	L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
+
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345
 
 
 ### 1 - Analyseren van algoritmes
-
-> Student **beargumenteert** of een in technische taal beschreven fundamenteel algoritme geschikt is voor gegeven context door zowel te redeneren in termen van symbolische logica als het uitvoeren van een complexiteitsanalyse.
-
 > Kennis & vaardigheden: propositielogica, predicaatlogica, algoritmecomplexiteit,  discrete wiskunde, pseudocode, verzamelingenleer, logisch modelleren
 
-[comment]: # (Portfolio-items peilmoment 1. Het eerste voorbeeld is een voorgedefinieerd portfolio-item dat op niveau is voltooid. Het tweede voorbeeld is een voorgedefinieerd portfolio-item dat onder niveau is. Het derde voorbeeld is een invulling van een wildcard. NB. Verwijder deze voorbeelden bij inlevering van het verantwoordingsdocument.)
-
-* [L&W-III: Boommethode](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-
-* [HW-I: Turing complete t/m level *Little Box*](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-    * Dit item is onder niveau, maar het draagt desondanks bij aan de leeruitkomst, want ik heb na de deadline in een individueel gesprek met docent Peter aangetoond dat ik de logica van de oplossing kan uitleggen.
-
-* [Wildcard: Analyseren van Algoritmes](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-    * In deze leeruitkomst geef ik een analyse van de looptijd van de heuristiek voor galgje uit het groepsproject.
-    * Coderegels 24 t/m 42 in [module.py](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht/module.py) is individueel werk van mij binnen het groepsproject. De uitwerking van de groepsopdracht staat in deze  [repo](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht).
-    * Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'Boommethode' op [Canvas](https://canvas.hu.nl/courses/44855/assignments/328081/submissions/367387).
-    * Ik heb feedback van een medestudent gekregen en dit verwerkt in een [pull request](https://github.com/AI-S2-Fundamentals-2024/superstudentje/megaopdracht/vettepullrequest).
-
----
-
-[comment]: # (Portfolio-items peilmoment 2)
-
----
-
-[comment]: # (Portfolio-items beslismoment)
+* L&W-I : Equivalentiebewijs,
+* In deze leeruitkomst laat ik d.m.v. van de reader zien hoe je kan aantonen dat een bepaalde stelling een tautologie is, dus altijd waar is.
+  dit item is op niveau want ik heb de gegeven feedback van docent David correct verwerkt.\
+* Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'Equivalentiebewijs' op [Canvas]:
+  https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382
 
 
+*  PROG-1 : API requests prioriteren,
+*  In deze leeruitkomst laat ik zien hoe het mogelijk is om zelfs in drukke periodes klanten alsnog altijd tevreden te houden en te voorzien van een antwoord.
+    * Dit item is op niveau, want ik heb de gegeven feedback van David correct verwerkt en als een geheel ingeleverd.
+      * Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'API requests prioriteren' op [Canvas]:
+      https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382
+
+*PROG-lll : Mastering Mastermind,
+    * In deze leeruitkomst laat ik zien hoe het mogelijk is om het spel Mastermind volledig zelfstandig te programmeren d.m.v. verschillende algoritmes en functies.
+    * Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'Mastering Mastermind' op [Canvas]:
+    https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382
+    
+*PROG-IV: Skip-bo in objecten, 
+   * In deze leeruitkomst laat ik zien hoe het mogelijk is om het spel Skip-bo volledig zelfstandig te programmeren d.m.v. verschillende algoritmes en functies.
+    * Ik heb feedback van de docent gekregen en dit verwerkt in de opdracht 'Skip-bo in objecten' op [Canvas]:
+     (https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 
 
 ### 2 - Procedureel en object-georiënteerd programmeren
 
@@ -64,9 +68,15 @@
 
 > Kennis & vaardigheden: software-architectuur, procedureel programmeren, object-georiënteerd programmeren, functionele decompositie, statically typed talen (C++), programmeerstijl, commentaar, documentatie, testen
 
-[comment]: # (Portfolio-items peilmoment 1)
+(Portfolio-items peilmoment 1)
+	L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
 
----
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345 
+
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -82,7 +92,14 @@
 
 > Kennis & vaardigheden: beperkte bronnen, functioneren van een computer, computerprocessen, geheugenmanagement
 
-[comment]: # (Portfolio-items peilmoment 1)
+ # (Portfolio-items peilmoment 1)
+L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
+
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345 
 
 ---
 
@@ -102,7 +119,13 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
+
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345 
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -119,7 +142,13 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
+
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345 
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -136,7 +165,13 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+L&W-I : Equivalentiebewijs, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328080/submissions/353382 Link naar repository: Was voor deze opdracht nog niet nodig.
+
+ PROG-1 : API requests prioriteren, Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328063/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345
+
+ PROG-lll : Mastering Mastermind, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/328065/submissions/353382 Link naar repository:https://github.com/AI-S2-2025/mastering-mastermind-Kostas0345
+
+ PROG-IV: Skip-bo in objecten, ik heb de verkregen feedback toegepast op de nieuwe versie, maar moet nog goed in systeem gezet worden. Link naar inlevering: https://canvas.hu.nl/courses/44855/assignments/336600/submissions/353382 Link naar repository: https://github.com/AI-S2-2025/skip-bo-Kostas0345
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -159,7 +194,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+In codes waar ik een bepaalde bron heb gebruikt, heb ik dat als commentaar boven de desbetreffende functie aangegeven.
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -180,7 +215,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+Ik heb nog niks omtrent een team gemaakt omdat we (nog) geen officiële tijd hebben gehad om echt als groep aan de game te werken.
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -202,7 +237,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+Link naar mijn git geschiedenis van voorbeeld priority opdracht: https://github.com/AI-S2-2025/api-requests-prioriteren-Kostas0345/commits/master/
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -228,7 +263,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+Voorbeeld van feedback die ik bij bijvoorbeeld de equivalentiebewijs heb gekregen: Je hebt feedback verwerkt, maar ik mis hier nog feedback/reflectie. Let erop dat je alleen regels  toepast uit 2.3.2. Je kan deze vaardigheden ook nog aantonen in H&W I
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -245,7 +280,7 @@
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
 
----
+Nauwkeurig: Ikzelf vind het prettig om alles waar ik mee bezig ben, goed en accuraat te maken, zelfs als ik grotendeels zeker ben dat ik het correct heb ingeleverd, loop ik óf naar een docent toe om te vragen of het zo goed is of ik stuur een mailtje met verdere details van wat is nou echt belangrijk voor deze opdracht of ik vraag als commentaar bij een opdracht op canvas of het zo wel goed etc.
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
 
